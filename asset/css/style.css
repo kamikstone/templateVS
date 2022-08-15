@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Merriweather:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.redressed
+{
+	font-family:'Times news roman'; /* 'Redressed',*/
+	font-size:1rem;		
+}
+element.style {
+    @media screen and (max-width: 1024px)
+}
+
+body{
+    background-color: #EEEEEE;
+}
+.header, .footer{
+    background-color: #000;
+}
+.header__logo span {
+    margin-left: 10px;
+    font-size: 40px;
+    color:#ef6e20;
+}
+.header__logo {
+    font-size: 25px;
+    font-family: "Helvetica Neue Bold 65";
+    margin: 0;
+    color: #FFFFFF;
+    
+}
+
+.header__logo a{
+    text-decoration: none;
+}
+.cc
+	{
+		height:35rem;
+		background:#777;
+		color:white;
+		position:relative;
+	}
+	
+	.overlay-image
+	{
+		position:absolute;
+		bottom:0;
+		left:0;
+		right:0;
+		top:0;
+		background:center;
+		background-size:cover;
+		height:700px;
+		opacity:0.6;
+	}
+/*
+#corp{
+    text-align: center;
+} 
+
+p {
+    margin-bottom: 1rem;
+    font-size: inherit;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+}
+blockquote, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, li, ol, p, pre, td, th, ul {
+    margin: 0;
+    padding: 0;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.header__logo a:hover{
+    background-color: transparent;
+    line-height: inherit;
+    color: #f16e00;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.header__container {
+    padding-right: 25px;
+    height: 80px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1550px;
+    font-synthesis: weight style;
+}
+.header__fixed.show {
+    opacity: 1;
+    pointer-events: initial;
+}
+.header__fixed {
+    opacity: 0;
+    pointer-events: none;
+    position: fixed;
+    z-index: 103;
+    left: 0;
+    right: 0;
+    top: 0;
+    background: #000;
+    transition: all 175ms ease-in-out;
+}
+.btn-orange{
+    color: #FFFFFF;  //= noir 
+ 
+} 
+
+*/
+
+/*
+body
+{
+    min-height: 100vh;
+    transition: 5s;
+}
+
+img{
+margin: 0 auto;
+height: 400px;
+width: 600px;
+display: none;
+transition: 1s;
+}
+
+.show
+{
+    display:block;
+}
+*/
+
+
+
